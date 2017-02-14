@@ -1,0 +1,23 @@
+{
+  "name": "lab7",
+  "version": "1.0.0",
+  "description": "Express Application",
+  "main": "app.js",
+  "scripts": {
+    "test": "node and express 2"
+  },
+  "keywords": [
+    "node",
+    "and",
+    "express",
+    "2"
+  ],
+  "author": "Paul Tobin",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.1",
+    "mongodb": "^2.2.24",
+    "shortid": "^2.2.6"
+  }
+}
